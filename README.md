@@ -49,4 +49,4 @@ A Machine Learning model that predicts the genre of a movie based on its plot de
 
 GitHub: https://github.com/SyedWasimJunaid
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: https://www.linkedin.com/in/syed-wasim-junaid-36a0a03b1/
